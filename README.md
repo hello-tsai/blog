@@ -1,5 +1,9 @@
 # blog
 ### 作者：蔡晓婷
++ [JS去重方法总结](https://zhuanlan.zhihu.com/p/84134264)
+
++ [css水平垂直居中的方法](https://zhuanlan.zhihu.com/p/82979107)
+
 + [带我彻底弄懂JS执行机制](https://zhuanlan.zhihu.com/p/80696729)
 
 + [带我彻底弄懂JavaScript模块化](https://zhuanlan.zhihu.com/p/80482156)
