@@ -1,5 +1,9 @@
 # blog
 ### 作者：蔡晓婷
++ [用Pusher和vue.js创建一个即时聊天app（译）](https://zhuanlan.zhihu.com/p/90198528)
+
++ [如何判断JS类型](https://zhuanlan.zhihu.com/p/89238840)
+
 + [JS去重方法总结](https://zhuanlan.zhihu.com/p/84134264)
 
 + [css水平垂直居中的方法](https://zhuanlan.zhihu.com/p/82979107)
